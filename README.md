@@ -22,7 +22,7 @@ A google sign app with node js.
 ### Installation 
 * Clone the repository
     ``` 
-    git clone https://github.com/pankaj5417/DeltaX
+    git clone git@github.com:pankaj5417/externassign.git
     ```
 ### To run on localServer
 
